@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/idkmanan/Auto-Comment">
+  <a href="https://github.com/Neil2004Sharma/AutoCommenting">
     <img src="images/autocomment.png" alt="Logo" width="120" height="80">
   </a>
 
@@ -40,7 +40,7 @@
   <p align="center">
     Automate Your Documentation – Focus on Logic!
     <br />
-    <a href="https://github.com/idkmanan/Auto-Comment"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Neil2004Sharma/AutoCommenting"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -158,7 +158,7 @@ Whether you're working on solo projects, team collaborations, or open-source con
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/manan-agg005/
+[linkedin-url]: https://www.linkedin.com/in/neil-s-a5a6092b4
 [product-screenshot]: images/auto-comment.gif
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/
