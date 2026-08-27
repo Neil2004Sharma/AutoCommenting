@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Neil2004Sharma/AutoCommenting">
-    <img src="images/autocomment.png" alt="Logo" width="120" height="80">
+    <img src="images/autocommenting.png" alt="Logo" width="120" height="80">
   </a>
 
   <h3 align="center">Auto-Comment</h3>
