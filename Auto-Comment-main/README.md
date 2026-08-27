@@ -35,7 +35,7 @@
     <img src="images/Auto-commenting.png" alt="Logo" width="120" height="80">
   </a>
 
-  <h3 align="center">Auto-Comment</h3>
+  <h3 align="center">Auto-Commenting</h3>
 
   <p align="center">
     Automate Your Documentation – Focus on Logic!
